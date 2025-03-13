@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Principal Engineer for N26 AG (Berlin)
-- 🌱 I’m currently learning Go, Rust, Kafka, Flink
+- 🌱 I’m currently learning LLM-Enabled Applications, Multi-Agent Collaboration, MCP (Model Context Protocol)
 - 👯 I’m looking to collaborate on Go and Rust projects
 - 🤔 I’m looking for help with learning Rust
 - 💬 Ask me about
@@ -13,11 +13,17 @@
    - AWS
    - Terraform
    - Go
+   - AWS Bedrock
+   - Generative / Discriminative AI 
 - 📫 How to reach me: w at <nospam> walter.bio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not a funny guy ;)
 
-### GPG Pub key
+<details>
+
+<summary>GPG Pub key</summary>
+
+### GPG Pub Key
 
 ```gpg
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -362,3 +368,4 @@ OmYdAOKRD9ee4Eh3TNj3lTQ8
 -----END PGP PUBLIC KEY BLOCK-----
 
 ```
+</details>
