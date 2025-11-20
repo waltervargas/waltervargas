@@ -1,19 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Principal Engineer for N26 AG (Berlin)
+   - 🔭 Leading the AI Platform and AI Initiatives at N26
 - 🌱 I’m currently learning LLM-Enabled Applications, Multi-Agent Collaboration, MCP (Model Context Protocol)
-- 👯 I’m looking to collaborate on Go and Rust projects
-- 🤔 I’m looking for help with learning Rust, Kotlin, Machine Learning Engineering.
-- 💬 Ask me about
-   - Biohacking
-   - Platform Engineering
-   - AWS Step Functions
-   - AWS Bedrock
-   - Go
-   - Generative / Discriminative AI 
 - 📫 How to reach me: w at <nospam> walter.bio
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not a funny guy ;)
 
 <details>
 
